@@ -1,4 +1,4 @@
 from funcs import sum
 
-sum(3,5)
+sum(3,9)
 
